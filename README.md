@@ -1,5 +1,4 @@
-# IG OPS
-
+# SQL OPS
 <p>This application is a Sql Injection Vulnerability Founder</p>
 <p>This Script Tested On Linux Operation System </p>
 <p>This Script Powered By Python Version 2.7</p>
