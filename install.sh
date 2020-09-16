@@ -5,9 +5,9 @@
 #                                                                      #
 # Subject  : Installer Script Sql Bug Scan & Sql Bug Seatch Dok Google #
 # Time     : 2018-02-04 18:12                                          #
-# Developer: Sir uidops                                                #
+# Developer: uidops                                                #
 # Email    : Sir.u1d0p5@gmail.com                                      #
-# Telegram : https://t.me/Sir_uidops                                   #
+# Telegram : https://t.me/orouj                                   #
 # Github   : https://github.com/uidops/sqlops                          #
 #                                                                      #
 ##               Copy Right For Me (Sir Uidops)                       ##
@@ -16,21 +16,11 @@
 #    please send a message for me
 #
 # Email    : Sir.u1d0p5@gmail.com
-# Telegram : https://t.me/Sir_uidops
+# Telegram : https://t.me/orouj
 
 
-
-apt-get update -y
+pip2 install -r requ*.txt
 clear
-
-
-apt-get install git python python-dev python-pip -y
-clear
-
-
-pip install -r requ*.txt
-clear
-
 
 mkdir -p /opt/sqlops
 
