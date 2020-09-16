@@ -7,9 +7,9 @@
 #                                                     #
 # Subject  : Sql Bug Scan & Sql Bug Seatch Dok Google #
 # Time     : 2018-02-04 18:12                         #
-# Developer: Sir uidops                               #
+# Developer: uidops                                   #
 # Email    : Sir.u1d0p5@gmail.com                     #
-# Telegram : https://t.me/Sir_uidops                  #
+# Telegram : https://t.me/orouj                       #
 # Github   : https://github.com/uidops                #
 #
 ##         Copy Right For Me (Sir Uidops)            ##
@@ -18,7 +18,7 @@
 #    please send a message for me
 #
 # Email    : Sir.u1d0p5@gmail.com
-# Telegram : https://t.me/Sir_uidops
+# Telegram : https://t.me/orouj
 
 # Colors ['red', 'green', 'brown', 'blue', 'turquoise', 'yellow', 'white', 'purple']
 red="\033[0;31m"
