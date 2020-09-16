@@ -118,7 +118,7 @@ def single(sqlurl):
 # App Search
 def search(dork):
 	try:
-		from google import search as Search
+		from googlesearch import search as Search
 	except ImportError:
 		print
 		print red+" [-] Please install 'google' library"
