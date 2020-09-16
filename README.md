@@ -40,10 +40,22 @@ Example
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![IG OPS](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
+# debian & ubuntu
 sudo apt-get update
 sudo apt-get install git python python-pip -y
 git clone https://github.com/siruidops/sqlops.git
 cd sqlops/
-python install.sh
+sudo python install.sh
 python sqlops.py
+
+
+# arch linux
+sudo pacman -Sy
+sudo pacman -S git python2 python2-pip
+git clone https://github.com/siruidops/sqlops.git
+cd sqlops/
+sudo python2 install.sh
+python2 sqlops.py
+
 ```
+
